@@ -1,4 +1,3 @@
-### Hi there 👋
 [![Browsero GitHub stats](https://github-readme-stats.vercel.app/api?username=Browsero&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
@@ -12,5 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+-->
