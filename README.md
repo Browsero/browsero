@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Browsero&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api?username={browsero}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 <!--
 
 Here are some ideas to get you started:
