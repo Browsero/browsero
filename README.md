@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github-readme-stats.vercel.app/api?username={browsero}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username={Browsero}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 <!--
 
 Here are some ideas to get you started:
